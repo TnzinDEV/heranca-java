@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ProjectModuleManager">
@@ -5,4 +6,13 @@
       <module fileurl="file://$PROJECT_DIR$/Heranca.iml" filepath="$PROJECT_DIR$/Heranca.iml" />
     </modules>
   </component>
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/heranca.iml" filepath="$PROJECT_DIR$/heranca.iml" />
+    </modules>
+  </component>
+>>>>>>> c27b3e4e68aac86fed4e0f01670169fc7413721f
 </project>
